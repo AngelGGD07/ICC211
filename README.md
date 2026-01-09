@@ -15,10 +15,10 @@ El código y los proyectos contenidos en este repositorio fueron desarrollados b
 El contenido se encuentra organizado categóricamente para facilitar la navegación y el estudio de los distintos temas abordados:
 
 📦 CSTI-1910-6337-Repo
- ┣ 📂 Tareas          # Ejercicios teóricos y resolución de problemas algorítmicos
- ┣ 📂 Practicas       # Laboratorios de código e implementación de estructuras
- ┣ 📂 Examenes        # Evaluaciones parciales y pruebas de conocimiento
- ┗ 📂 Proyecto_Final  # Proyecto integrador de la materia
+📂 Tareas          # Ejercicios teóricos y resolución de problemas algorítmicos 
+📂 Practicas       # Laboratorios de código e implementación de estructuras
+📂 Examenes        # Evaluaciones parciales y pruebas de conocimiento 
+📂 Proyecto_Final  # Proyecto integrador de la materia
 
 
 📝 Contenido de los Módulos
