@@ -18,7 +18,7 @@ El contenido se encuentra organizado categóricamente para facilitar la navegaci
 
 ----------------------
 
-📦 CSTI-1910-6337-Repo
+📦 CSTI-1910-6337-Repositorio
 
 📂 Tareas          # Ejercicios teóricos y resolución de problemas algorítmicos
 
